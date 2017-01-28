@@ -10,6 +10,11 @@ body {
     margin-bottom: 0;
 }
 
+footer {
+    background-color: #263238;
+    text-align: center;
+}
+
 .headers {
     padding-top: 10px;
     text-align: center;
